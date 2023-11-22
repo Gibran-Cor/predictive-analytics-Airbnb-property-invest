@@ -13,9 +13,9 @@ The main goals of this project are as follows:
 **Models Used**
 The project employs two regression models for property price prediction:
 
-**Ridge Regression:** Ridge regression is utilized as a regularization technique to mitigate potential overfitting and improve the model's generalization performance.
+- **Ridge Regression:** Ridge regression is utilized as a regularization technique to mitigate potential overfitting and improve the model's generalization performance.
 
-**Linear Regression:** Linear regression is applied to establish a baseline model for predicting property prices based on the available variables.
+- **Linear Regression:** Linear regression is applied to establish a baseline model for predicting property prices based on the available variables.
 
 **Repository Structure**
 The repository is organized as follows:
