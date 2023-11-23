@@ -1,4 +1,4 @@
-# Predictive-Analytics-Airbnb-Property-Invest
+# Predictive-Analytics-SF-Airbnb-Property-Invest
 ![pexels-pixabay-208745](https://github.com/Gibran-Cor/predictive-analytics-Airbnb-property-invest/assets/142538044/f9a83f58-1df4-4e4c-86e3-3a681458d072)
 **Overview**
 Welcome to the Property Price Prediction project! This GitHub repository contains the code and resources for a project focused on predicting property prices using data obtained from world-data. The dataset comprises information on 76,000 properties, with 11 variables that can potentially influence their prices. The primary objective is to build a statistical model capable of predicting property prices accurately. This model aims to be a valuable tool for current hosts managing temporary rentals and individuals considering renting out their homes.
